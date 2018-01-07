@@ -27,7 +27,7 @@ if(x=="3"){xxx="/2018/01/how-to-measure-digital-marketing.html"}
 if(x=="4"){xxx="/2018/01/7-crucial-elements-to-building.html"}
 if(x=="5"){xxx="/2018/01/know-your-audience-to-excel-in-digital.html"}
 if(x=="6"){xxx="/2018/01/why-marketing-your-book-is-important.html"}
-if(x=="7"){xxx="/2018/01/6-advantages-of-social-media-marketing.html"}a_to_ve[i].href="https://convert-safelink.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="7"){xxx="/2018/01/6-advantages-of-social-media-marketing.html"}a_to_ve[i].href="http://www.gofast-safelink.xyz"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
